@@ -3,7 +3,6 @@ import os
 
 def enhance_video(in_file):
     out = in_file + "_hd.mp4"
-    # Upscale video using ffmpeg
     cmd = [
         "ffmpeg",
         "-i", in_file,
