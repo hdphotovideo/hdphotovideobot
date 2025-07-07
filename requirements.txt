@@ -1,5 +1,4 @@
 python-telegram-bot
 gfpgan
 opencv-python
-realesrgan
-video2x
+ffmpeg-python
